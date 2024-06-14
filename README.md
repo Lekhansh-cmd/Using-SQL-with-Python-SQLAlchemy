@@ -13,7 +13,7 @@ In this tutorial, we'll explore how to combine the strengths of SQL with the ver
 1. Saving the Pandas DataFrame as an SQL Table
 2. Loading the SQL Table using Pandas
 3. Running SQL Queries using Pandas
-4. Using SQL Query Result with Pandas
+4. Using SQL Query Result for Analysis and Visualization
 
 ## Conclusion
 SQLAlchemy combined with Pandas offers powerful capabilities for data analysis and visualization. This tutorial demonstrates how to seamlessly integrate SQL databases with Python for enhanced data-driven insights.
