@@ -9,6 +9,8 @@ As a data scientist, Python is essential for detailed data analysis, visualizati
 
 In this tutorial, we'll explore how to combine the strengths of SQL with the versatility of Python using SQLAlchemy and Pandas. We'll cover how to connect to databases, run SQL queries using SQLAlchemy, and then analyze and visualize the data with Pandas. Let's dive in and maximize your data capabilities with Python and SQL!
 
+Data Set Available on: https://www.kaggle.com/datasets/willianoliveiragibin/countries-poluation
+
 ## Steps
 1. Saving the Pandas DataFrame as an SQL Table
 2. Loading the SQL Table using Pandas
